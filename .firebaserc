@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "app-rm-399b9",
+    "www": "app-rm-399b9",
+    "APP": "app-rm-399b9",
+    "API": "api-rick-moty",
+    "APIS": "app-rm-399b9"
+  },
+  "targets": {},
+  "etags": {}
+}
